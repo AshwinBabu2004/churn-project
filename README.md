@@ -26,12 +26,11 @@ Built a 0–3 behavioral risk score based on the top 3 churn signals:
 - **Tableau** — retention risk dashboard 
 
 ## Project Structure
+- `data/` — Raw dataset
+- `notebooks/` — Jupyter notebook (main analysis)
+- `sql/` — SQL queries and execution script
+- `exports/` — Cleaned CSVs for Tableau
 
-churn_project/
-├── data/              # Raw dataset
-├── notebooks/         # Jupyter notebook (main analysis)
-├── sql/               # SQL queries and execution script
-├── exports/           # Cleaned CSVs for Tableau
 
 ## Dataset
 [Telco Customer Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
