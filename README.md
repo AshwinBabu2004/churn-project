@@ -23,7 +23,7 @@ Built a 0–3 behavioral risk score based on the top 3 churn signals:
 ## Tools Used
 - **Python** (pandas, scikit-learn, matplotlib, seaborn) — data cleaning, analysis, risk scoring
 - **SQL** (SQLite) — segment analysis and revenue queries
-- **Tableau** — retention risk dashboard 
+- **Tableau** — Churn Analysis dashboard 
 
 ## Project Structure
 - `data/` — Raw dataset
