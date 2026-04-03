@@ -34,3 +34,6 @@ Built a 0–3 behavioral risk score based on the top 3 churn signals:
 
 ## Dataset
 [Telco Customer Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+## Dashboard
+[View Tableau Dashboard](https://public.tableau.com/views/SaaSCustomerChurnAnalysis_17752540546540/SaaSCustomerChurnAnalysis)
